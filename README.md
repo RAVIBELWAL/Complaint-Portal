@@ -21,7 +21,7 @@ This is my self development project , can be used to handle huge stack of compla
  <img src="/img/1.png"/>
 </p>
 <p align="center">
- <img src="/img/2.1.png"/>
+ <img src="/img/2.1.png" style='height:50vh'/>
 </p>
 <p align="center">
  <img src="/img/2.png"/>
@@ -42,7 +42,7 @@ This is my self development project , can be used to handle huge stack of compla
  <img src="/img/7.png"/>
 </p>
 <p align="center">
- <img src="/img/8.1.png"/>
+ <img src="/img/8.1.png" style='height:50vh'/>
 </p>
 <p align="center">
  <img src="/img/8.png"/>
@@ -63,7 +63,7 @@ This is my self development project , can be used to handle huge stack of compla
  <img src="/img/13.png"/>
 </p>
 <p align="center">
- <img src="/img/14.1.png"/>
+ <img src="/img/14.1.png" style='height:50vh'/>
 </p>
 <p align="center">
  <img src="/img/14.png"/>
