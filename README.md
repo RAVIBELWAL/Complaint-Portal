@@ -1,7 +1,7 @@
 # Complaint-Portal
 This is a self project developed in NodeJS , Express, SQL Database , Bootstraps, CSS, HTML
 
-<a href="https://belwal.gigsngadgets.tech/">Complaint Portal Click To Visit (Under Development**)</a>
+<a href="https://belwal.gigsngadgets.tech/">Complaint Portal Click To Visit (Under Development**) https://belwal.gigsngadgets.tech/</a>
 # Complaint-Portal
 This is my self development project , can be used to handle huge stack of complaints that to safely and securely , so as to provide a transparent open system in any organization.
 
